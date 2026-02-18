@@ -1,13 +1,5 @@
 /* Aristotelis Psaras
-  AM: 2022202000239
- dit20239@gmail.com
-
-
-
-
  Eleni Mavrogianni
- AM: 2022202000136
- dit20136@gmail.com
  */
 
 
